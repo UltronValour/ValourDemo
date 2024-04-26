@@ -1,4 +1,5 @@
 # ValourDemo
 My first git repository.
 <br>
-Author-Valour Moraes (SFIT)
+Author-Valour Moraes 
+I study at SFIT
